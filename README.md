@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://alanafsoares.github.io/devlinks/)
 
 ##  Tech
 
