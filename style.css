@@ -34,7 +34,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto;
   padding: 0 24px;
 }
@@ -140,10 +141,4 @@ ul li a:hover {
   clip-path: circle();
   transition: background 0.2s;
   /* border-radius: 50%; */
-}
-
-footer {
-  padding: 24px 0;
-  text-align: center;
-  font-size: 14px;
 }
